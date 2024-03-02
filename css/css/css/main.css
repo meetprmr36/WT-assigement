@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v16:3 {
+  background: rgba(180,180,184,1);
+  width: 430px;
+  height: 940px;
+}

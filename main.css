@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v16_43 {
+  width: 430px;
+  height: 932px;
+  background: rgba(180,180,184,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v16_68 {
+  width: 302px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 96px;
+  left: 71px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 45px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_82 {
+  width: 371px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 280px;
+  left: 30px;
+  overflow: hidden;
+}
+.v16_86 {
+  width: 101px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 286px;
+  left: 35px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_83 {
+  width: 371px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 423px;
+  left: 30px;
+  overflow: hidden;
+}
+.v16_87 {
+  width: 101px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 431px;
+  left: 35px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_84 {
+  width: 344px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 331px;
+  left: 45px;
+  overflow: hidden;
+}
+.v16_85 {
+  width: 344px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 473px;
+  left: 45px;
+  overflow: hidden;
+}
+.v16_95 {
+  width: 371px;
+  height: 105px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 561px;
+  left: 30px;
+  overflow: hidden;
+}
+.v16_96 {
+  width: 101px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 569px;
+  left: 35px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_97 {
+  width: 344px;
+  height: 38px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 611px;
+  left: 45px;
+  overflow: hidden;
+}
